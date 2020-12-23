@@ -6,7 +6,7 @@ import SearchBar from './search_bar';
 import VideoList from './video_list';
 import VideoDetail from './video_detail';
 
-const API_KEY = "AIzaSyBL0_3XCWzGu_pY6h9af1PhMVyjqQq_flE";
+const API_KEY = "GOOGLE_API_KEY";
 
 export default class App extends Component {
   constructor(props) {
